@@ -1,4 +1,3 @@
-##TASK -8
 # Task 8: K-Means Clustering
 
 ## Objective
@@ -10,7 +9,7 @@ This project demonstrates how to apply **K-Means Clustering** for customer segme
 - Scikit-learn
 - Matplotlib
 
-##Libraries installed
+# ##Libraries installed
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
@@ -45,18 +44,18 @@ python k_cluster.py
 5. Visualized the clusters.
 6. Evaluated the model using the Silhouette Score.
 
-##Output
+## Outputs:
 Elbow curve plot to determine K.
 Cluster visualization (2D plot).
 Printed silhouette score.
 
-##Learnings
+## Learnings:
 How K-Means groups data points based on similarity.
 How to evaluate clusters using the Silhouette Score.
 Use of the Elbow Method for finding optimal cluster count.
 
-##Dataset
+## Dataset:
 Dataset used: Mall_Customers.csv
 
-##Author:
+## Author:
 GitHub:@kammarakaveri
