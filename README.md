@@ -26,7 +26,7 @@ from sklearn.metrics import silhouette_score
 4. **Model Training** – Applied `KMeans` clustering to the data.
 5. **Visualization** – Plotted clusters with color-coding to visualize the grouping.
 6. **Evaluation** – Calculated **Silhouette Score** to evaluate cluster quality.
-"""
+
 
 
 ```bash
@@ -60,4 +60,4 @@ Dataset used: Mall_Customers.csv
 
 ##Author:
 GitHub:@kammarakaveri
-"""
+
