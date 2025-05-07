@@ -29,7 +29,7 @@ from sklearn.metrics import silhouette_score
 
 
 
-```bash
+bash
 pip install -r requirements.txt
 
 ##
@@ -60,4 +60,3 @@ Dataset used: Mall_Customers.csv
 
 ##Author:
 GitHub:@kammarakaveri
-
